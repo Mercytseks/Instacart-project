@@ -7,6 +7,7 @@ The dataset provides information about the following:
 * orders
 * products
 * department
+Click [here](https://www.instacart.com/datasets/grocery-shopping-2017) to acccess the data
 ### Tools
 The following python libraries were used for the analysis:
 * Pandas
